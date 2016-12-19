@@ -19,6 +19,7 @@
 			"LionCMS\\Installer\\Console\\": "src/"
 		}
 	},
+	"minimum-stability": "stable",
 	"bin": [
 	    "lioncms"
 	]
